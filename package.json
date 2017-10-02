@@ -1,0 +1,24 @@
+{
+  "name": "empower.css",
+  "version": "0.0.0",
+  "description": "Composable em-based font sizing classes to empower creators",
+  "author": "Ryan Van Etten",
+  "license": "CC0-1.0",
+  "main": "empower.css",
+  "scripts": {},
+  "homepage": "https://github.com/ryanve/empower.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanve/empower.css.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ryanve/empower.css/issues"
+  },
+  "keywords": [
+    "typography",
+    "line-height",
+    "font-size",
+    "css",
+    "em"
+  ]
+}
